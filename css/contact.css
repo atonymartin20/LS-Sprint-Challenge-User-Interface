@@ -1,0 +1,20 @@
+.top-content img {
+    width: 100%;
+}
+
+.top-content {
+    margin-bottom: 40px;
+}
+.contact {
+    width: 100%;
+    padding-bottom: 20px;
+}
+
+.contact a {
+    text-decoration: none;
+    color: black;
+}
+
+.contact a:hover {
+    color: darkred;
+}
